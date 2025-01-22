@@ -19,3 +19,89 @@
 {"level":"info","message":"Starting data scraping...","timestamp":"2025-01-20T15:10:29.226Z"}
 {"level":"info","message":"Enriching data...","timestamp":"2025-01-20T15:10:31.441Z"}
 {"count":0,"level":"info","message":"Data enrichment complete","timestamp":"2025-01-20T15:10:31.442Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T15:31:20.310Z"}
+{"level":"info","message":"Enriching data...","timestamp":"2025-01-22T15:31:22.841Z"}
+{"count":0,"level":"info","message":"Data enrichment complete","timestamp":"2025-01-22T15:31:22.841Z"}
+{"level":"info","message":"Connecting to the database...","timestamp":"2025-01-22T15:41:22.596Z"}
+{"level":"info","message":"Database connected successfully.","timestamp":"2025-01-22T15:41:22.647Z"}
+{"level":"info","message":"Dashboard started successfully.","timestamp":"2025-01-22T15:41:22.648Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T15:41:22.648Z"}
+{"level":"info","message":"Navigating to CrunchBase...","timestamp":"2025-01-22T15:41:24.106Z"}
+{"level":"info","message":"Waiting for the page to load...","timestamp":"2025-01-22T15:41:25.059Z"}
+{"level":"error","message":"Error scraping CrunchBase: Waiting for selector `.some-class` failed: Waiting failed: 10000ms exceeded","timestamp":"2025-01-22T15:41:35.062Z"}
+{"level":"info","message":"Browser closed.","timestamp":"2025-01-22T15:41:35.148Z"}
+{"level":"error","message":"Error in automation pipeline: Waiting for selector `.some-class` failed: Waiting failed: 10000ms exceeded","timestamp":"2025-01-22T15:41:35.149Z"}
+{"level":"info","message":"Connecting to the database...","timestamp":"2025-01-22T15:44:43.141Z"}
+{"level":"info","message":"Database connected successfully.","timestamp":"2025-01-22T15:44:43.180Z"}
+{"level":"info","message":"Dashboard started successfully.","timestamp":"2025-01-22T15:44:43.181Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T15:44:43.181Z"}
+{"level":"info","message":"Navigating to CrunchBase...","timestamp":"2025-01-22T15:44:44.635Z"}
+{"level":"info","message":"Waiting for the page to load...","timestamp":"2025-01-22T15:44:45.507Z"}
+{"level":"error","message":"Error scraping CrunchBase: Waiting for selector `.valid-selector` failed: Waiting failed: 15000ms exceeded","timestamp":"2025-01-22T15:45:00.516Z"}
+{"level":"info","message":"Browser closed.","timestamp":"2025-01-22T15:45:00.516Z"}
+{"level":"info","message":"Scraping complete. 0 leads scraped.","timestamp":"2025-01-22T15:45:00.618Z"}
+{"level":"info","message":"Starting data enrichment...","timestamp":"2025-01-22T15:45:00.618Z"}
+{"level":"info","message":"Enrichment complete. 0 leads enriched.","timestamp":"2025-01-22T15:45:00.618Z"}
+{"level":"info","message":"Automation pipeline completed successfully.","timestamp":"2025-01-22T15:45:00.618Z"}
+{"level":"info","message":"Connecting to the database...","timestamp":"2025-01-22T16:02:07.413Z"}
+{"level":"info","message":"Database connected successfully.","timestamp":"2025-01-22T16:02:07.451Z"}
+{"level":"info","message":"Dashboard started successfully.","timestamp":"2025-01-22T16:02:07.452Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T16:02:07.453Z"}
+{"level":"info","message":"Navigating to CrunchBase...","timestamp":"2025-01-22T16:02:09.004Z"}
+{"level":"info","message":"Waiting for the page to load...","timestamp":"2025-01-22T16:02:09.867Z"}
+{"level":"info","message":"Page loaded successfully: https://www.crunchbase.com/","timestamp":"2025-01-22T16:02:09.897Z"}
+{"level":"info","message":"Extracting available data...","timestamp":"2025-01-22T16:02:09.897Z"}
+{"level":"info","message":"Found 9 potential entries on the page.","timestamp":"2025-01-22T16:02:09.900Z"}
+{"level":"info","message":"Scraped 0 companies successfully.","timestamp":"2025-01-22T16:02:09.901Z"}
+{"level":"info","message":"Browser closed.","timestamp":"2025-01-22T16:02:09.901Z"}
+{"level":"info","message":"Scraping complete. 0 leads scraped.","timestamp":"2025-01-22T16:02:09.980Z"}
+{"level":"info","message":"Starting data enrichment...","timestamp":"2025-01-22T16:02:09.980Z"}
+{"level":"info","message":"Enrichment complete. 0 leads enriched.","timestamp":"2025-01-22T16:02:09.980Z"}
+{"level":"info","message":"Automation pipeline completed successfully.","timestamp":"2025-01-22T16:02:09.980Z"}
+{"level":"info","message":"Connecting to the database...","timestamp":"2025-01-22T16:04:19.066Z"}
+{"level":"info","message":"Database connected successfully.","timestamp":"2025-01-22T16:04:19.120Z"}
+{"level":"info","message":"Dashboard started successfully.","timestamp":"2025-01-22T16:04:19.122Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T16:04:19.122Z"}
+{"level":"info","message":"Navigating to CrunchBase...","timestamp":"2025-01-22T16:04:20.128Z"}
+{"level":"info","message":"Waiting for the page to load...","timestamp":"2025-01-22T16:04:21.013Z"}
+{"level":"info","message":"Page loaded successfully, starting extraction...","timestamp":"2025-01-22T16:04:21.041Z"}
+{"0":{"class":"","tag":"DIV","text":"Sorry, you have been blocked\nYou are unable to access crunchbase.com\nWhy have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\n\nCloudflare Ray ID: 9060c77b6a3c91e6 • Your IP: Click to reveal • Performance & security by Cloudflare"},"1":{"class":"cf-error-details-wrapper","tag":"DIV","text":"Sorry, you have been blocked\nYou are unable to access crunchbase.com\nWhy have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\n\nCloudflare Ray ID: 9060c77b6a3c91e6 • Your IP: Click to reveal • Performance & security by Cloudflare"},"2":{"class":"cf-wrapper cf-header cf-error-overview","tag":"DIV","text":"Sorry, you have been blocked\nYou are unable to access crunchbase.com"},"3":{"class":"","tag":"H1","text":"Sorry, you have been blocked"},"4":{"class":"cf-subheadline","tag":"H2","text":"You are unable to access crunchbase.com"},"5":{"class":"","tag":"SPAN","text":"You are unable to access"},"6":{"class":"cf-section cf-wrapper","tag":"DIV","text":"Why have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page."},"7":{"class":"cf-columns two","tag":"DIV","text":"Why have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page."},"8":{"class":"cf-column","tag":"DIV","text":"Why have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data."},"9":{"class":"","tag":"H2","text":"Why have I been blocked?"},"level":"info","message":"Extracted text from page:","timestamp":"2025-01-22T16:04:21.044Z"}
+{"level":"info","message":"Found 0 potential company entries.","timestamp":"2025-01-22T16:04:21.045Z"}
+{"level":"info","message":"Scraped 0 potential companies.","timestamp":"2025-01-22T16:04:21.045Z"}
+{"level":"info","message":"Browser closed.","timestamp":"2025-01-22T16:04:21.045Z"}
+{"level":"info","message":"Scraping complete. 0 leads scraped.","timestamp":"2025-01-22T16:04:21.124Z"}
+{"level":"info","message":"Starting data enrichment...","timestamp":"2025-01-22T16:04:21.124Z"}
+{"level":"info","message":"Enrichment complete. 0 leads enriched.","timestamp":"2025-01-22T16:04:21.124Z"}
+{"level":"info","message":"Automation pipeline completed successfully.","timestamp":"2025-01-22T16:04:21.124Z"}
+{"level":"info","message":"Connecting to the database...","timestamp":"2025-01-22T16:06:21.663Z"}
+{"level":"info","message":"Database connected successfully.","timestamp":"2025-01-22T16:06:21.705Z"}
+{"level":"info","message":"Dashboard started successfully.","timestamp":"2025-01-22T16:06:21.706Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T16:06:21.706Z"}
+{"level":"error","message":"Error in automation pipeline: scrapeCrunchBase is not a function","timestamp":"2025-01-22T16:06:21.706Z"}
+{"level":"info","message":"Connecting to the database...","timestamp":"2025-01-22T16:06:53.663Z"}
+{"level":"info","message":"Database connected successfully.","timestamp":"2025-01-22T16:06:53.691Z"}
+{"level":"info","message":"Dashboard started successfully.","timestamp":"2025-01-22T16:06:53.692Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T16:06:53.692Z"}
+{"level":"info","message":"Navigating to CrunchBase...","timestamp":"2025-01-22T16:06:54.727Z"}
+{"level":"info","message":"Waiting for the page to load...","timestamp":"2025-01-22T16:06:55.635Z"}
+{"level":"error","message":"Error scraping CrunchBase: Waiting for selector `.valid-selector` failed: Waiting failed: 15000ms exceeded","timestamp":"2025-01-22T16:07:10.650Z"}
+{"level":"info","message":"Browser closed.","timestamp":"2025-01-22T16:07:10.650Z"}
+{"level":"info","message":"Scraping complete. 0 leads scraped.","timestamp":"2025-01-22T16:07:10.743Z"}
+{"level":"info","message":"Starting data enrichment...","timestamp":"2025-01-22T16:07:10.743Z"}
+{"level":"info","message":"Enrichment complete. 0 leads enriched.","timestamp":"2025-01-22T16:07:10.743Z"}
+{"level":"info","message":"Automation pipeline completed successfully.","timestamp":"2025-01-22T16:07:10.743Z"}
+{"level":"info","message":"Connecting to the database...","timestamp":"2025-01-22T16:08:07.137Z"}
+{"level":"info","message":"Database connected successfully.","timestamp":"2025-01-22T16:08:07.167Z"}
+{"level":"info","message":"Dashboard started successfully.","timestamp":"2025-01-22T16:08:07.168Z"}
+{"level":"info","message":"Starting data scraping...","timestamp":"2025-01-22T16:08:07.168Z"}
+{"level":"info","message":"Navigating to CrunchBase...","timestamp":"2025-01-22T16:08:08.170Z"}
+{"level":"info","message":"Waiting for the page to load...","timestamp":"2025-01-22T16:08:09.049Z"}
+{"level":"info","message":"Page loaded successfully, starting extraction...","timestamp":"2025-01-22T16:08:09.072Z"}
+{"0":{"class":"","tag":"DIV","text":"Sorry, you have been blocked\nYou are unable to access crunchbase.com\nWhy have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\n\nCloudflare Ray ID: 9060cd0ccf9091e5 • Your IP: Click to reveal • Performance & security by Cloudflare"},"1":{"class":"cf-error-details-wrapper","tag":"DIV","text":"Sorry, you have been blocked\nYou are unable to access crunchbase.com\nWhy have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\n\nCloudflare Ray ID: 9060cd0ccf9091e5 • Your IP: Click to reveal • Performance & security by Cloudflare"},"2":{"class":"cf-wrapper cf-header cf-error-overview","tag":"DIV","text":"Sorry, you have been blocked\nYou are unable to access crunchbase.com"},"3":{"class":"","tag":"H1","text":"Sorry, you have been blocked"},"4":{"class":"cf-subheadline","tag":"H2","text":"You are unable to access crunchbase.com"},"5":{"class":"","tag":"SPAN","text":"You are unable to access"},"6":{"class":"cf-section cf-wrapper","tag":"DIV","text":"Why have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page."},"7":{"class":"cf-columns two","tag":"DIV","text":"Why have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page."},"8":{"class":"cf-column","tag":"DIV","text":"Why have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data."},"9":{"class":"","tag":"H2","text":"Why have I been blocked?"},"level":"info","message":"Extracted text from page:","timestamp":"2025-01-22T16:08:09.076Z"}
+{"level":"info","message":"Found 0 potential company entries.","timestamp":"2025-01-22T16:08:09.076Z"}
+{"level":"info","message":"Scraped 0 potential companies.","timestamp":"2025-01-22T16:08:09.077Z"}
+{"level":"info","message":"Browser closed.","timestamp":"2025-01-22T16:08:09.077Z"}
+{"level":"info","message":"Scraping complete. 0 leads scraped.","timestamp":"2025-01-22T16:08:09.151Z"}
+{"level":"info","message":"Starting data enrichment...","timestamp":"2025-01-22T16:08:09.151Z"}
+{"level":"info","message":"Enrichment complete. 0 leads enriched.","timestamp":"2025-01-22T16:08:09.151Z"}
+{"level":"info","message":"Automation pipeline completed successfully.","timestamp":"2025-01-22T16:08:09.151Z"}
